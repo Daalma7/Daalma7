@@ -9,7 +9,7 @@ Para generar nuevos logos:
 5.- Pasarlo a base64 (https://elmah.io/tools/base64-image-encoder/)
 -->
 
-[![Typing WhatIAm](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=35&duration=3000&pause=1000&color=00A0FF&center=true&vCenter=true&width=1000&height=100&lines=Data+Scientist;Mathematician;Computer+Scientist)](https://git.io/typing-svg)
+[![Typing WhatIAm](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=35&duration=3000&pause=1000&color=2c75ff&center=true&vCenter=true&width=1000&height=100&lines=Data+Scientist;Mathematician;Computer+Scientist)](https://git.io/typing-svg)
 
 ## 👋 About Myself:
 
